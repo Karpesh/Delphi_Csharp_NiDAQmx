@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.11.06 17:43:47.015.pas,D:\Documents and Settings\Me\My Documents\RAD Studio\Projects\Unit1.pas=C:\Karpesh\Delphi\проба delphi и С#\Unit1.pas</Transaction>
+    <Transaction>2008.11.06 17:43:47.015.dfm,D:\Documents and Settings\Me\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Karpesh\Delphi\проба delphi и С#\Unit1.dfm</Transaction>
+    <Transaction>2008.11.06 17:43:49.734.dproj,D:\Documents and Settings\Me\My Documents\RAD Studio\Projects\Project1.dproj=C:\Karpesh\Delphi\проба delphi и С#\Project1.dproj</Transaction>
+    <Transaction>2008.11.10 16:16:03.453.pas,C:\Karpesh\Delphi\проба delphi и С#\Class1_TLB.pas=</Transaction>
+    <Transaction>2008.11.10 16:16:07.031.pas,C:\Karpesh\Delphi\проба delphi и С#\ClassLibrary1_TLB.pas=</Transaction>
+    <Transaction>2008.11.10 17:02:08.312.pas,C:\Karpesh\Delphi\проба delphi и С#\Class1_TLB.pas=</Transaction>
+    <Transaction>2008.11.10 17:23:25.203.pas,C:\Karpesh\Delphi\проба delphi и С#\Class2_TLB.pas=</Transaction>
+    <Transaction>2008.11.10 17:27:07.578.pas,C:\Karpesh\Delphi\проба delphi и С#\ClassLibrary2_TLB.pas=</Transaction>
+    <Transaction>2008.11.11 17:41:06.203.dpk,C:\Karpesh\Delphi\проба delphi и С#\probe.dpk=</Transaction>
+    <Transaction>2008.11.12 17:24:25.000.pas,C:\Karpesh\Delphi\проба delphi и С#\ClassLibrary4_TLB.pas=</Transaction>
+    <Transaction>2008.11.13 11:17:44.296.pas,C:\Karpesh\Delphi\проба delphi и С#\ClassLibrary5_TLB.pas=</Transaction>
+    <Transaction>2008.11.13 11:52:23.640.pas,C:\Karpesh\Delphi\проба delphi и С#\ClassLibrary5_TLB.pas=</Transaction>
+    <Transaction>2008.11.14 11:54:54.515.pas,C:\Karpesh\Delphi\Tornado\dotnetNiDAQmx_TLB.pas=</Transaction>
+    <Transaction>2009.09.23 15:24:32.921.pas,c:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx_TLB.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

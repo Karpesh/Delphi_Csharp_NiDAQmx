@@ -1,0 +1,39 @@
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+C:\WINDOWS\assembly\dotnetNiDAQmx.dll
+C:\WINDOWS\assembly\dotnetNiDAQmx.pdb
+C:\WINDOWS\assembly\dotnetNiDAQmx.tlb
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+D:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.dll
+D:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.pdb
+D:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.tlb
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+C:\Delphi\проба delphi и С#\dotnetNiDAQmx.dll
+C:\Delphi\проба delphi и С#\dotnetNiDAQmx.pdb
+C:\Delphi\проба delphi и С#\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\dotnetNiDAQmx.dll
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\dotnetNiDAQmx.pdb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\dotnetNiDAQmx.tlb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.tlb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\dotnetNiDAQmx.tlb

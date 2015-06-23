@@ -1,0 +1,40 @@
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\NationalInstruments.DAQmx.dll
+c:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\NationalInstruments.Common.Native.dll
+c:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Debug\NationalInstruments.DAQmx.xml
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+c:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\NationalInstruments.DAQmx.xml
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb
+D:\Karpesh\C#\AI-DIO-AO\ClassLibrary1\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\C#\AI-DIO-AO-Wave\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+c:\Karpesh\C#\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\bin\Debug\dotnetNiDAQmx.tlb
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi_C#_NiDAQmx\AI-DIO-AO-Wave-AI_VRead\ClassLibrary1\obj\Debug\dotnetNiDAQmx.pdb

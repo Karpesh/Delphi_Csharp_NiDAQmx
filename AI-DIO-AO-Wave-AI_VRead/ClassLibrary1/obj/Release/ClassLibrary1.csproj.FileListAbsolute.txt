@@ -1,0 +1,9 @@
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary5.dll
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary5.pdb
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary5.tlb
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.dll
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.pdb
+C:\Karpesh\Delphi\проба delphi и С#\dotnetNiDAQmx.tlb
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.dll
+C:\Karpesh\C#\Еще проба\ClassLibrary1\ClassLibrary1\obj\Release\dotnetNiDAQmx.pdb
